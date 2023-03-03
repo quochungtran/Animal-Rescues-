@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+tensorflow
+torch
+
+
+OSMPythonTools
+shapely
+haversine
+category_encoders

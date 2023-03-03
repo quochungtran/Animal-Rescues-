@@ -4,7 +4,7 @@
 #      distances.py                                       ::::::::::::::::::::       :+:    :+:     :+:     :+:    :+:      #
 #                                                         ::::::::::::::+++#####+++  +:+    +:+     +:+     +:+             #
 #      By: Branly, Tran Quoc <->                          ::+++##############+++     +:+    +:+     +:+     +:+             #
-#      https://github.com/StephaneBranly              +++##############+++::::       +#+    +:+     +#+     +#+             #
+#                                                     +++##############+++::::       +#+    +:+     +#+     +#+             #
 #                                                       +++##+++::::::::::::::       +#+    +:+     +#+     +#+             #
 #                                                         ::::::::::::::::::::       +#+    +#+     +#+     +#+             #
 #                                                         ::::::::::::::::::::       #+#    #+#     #+#     #+#    #+#      #
@@ -212,7 +212,7 @@ def plot_features(features, fillColor="#FF0000", key=None):
 
 def plot_targets(targets):
     """
-    Plot all the targets. Plot all fatures for each target
+    Plot all the targets. Plot all features for each target
     """
     for k in targets:
         target = targets[k]
